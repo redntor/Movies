@@ -1,6 +1,6 @@
 using System;
 
-namespace Milestone1
+namespace Movies
 {
     public class Movie
     {

@@ -21,6 +21,9 @@ namespace Milestone1
                 .ConfigureWebHostDefaults(webBuilder =>
                 {
                     webBuilder.UseStartup<Startup>();
+                 
                 });
+
+
     }
 }

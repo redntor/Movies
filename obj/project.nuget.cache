@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JAEQ/mSYeRwykgdSt397ckEf1u4qZvhCWaz0wiqtTwlXq2FxR8sPjdXypgV45UhlIz1hDzd+jRX2qBQRYveieg==",
+  "dgSpecHash": "u4nPfYDRC1ADpFJlkFlBCK+cWwTMKm4yuJupN4h3FSCgeRJMwMeuBFMi9N/A7KdC79+46j5tmEBDjcdzF/5YRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jose.hc\\source\\repos\\Milestone1\\Milestone1\\Milestone1\\Milestone1.csproj",
+  "projectFilePath": "C:\\Users\\jose.hc\\source\\repos\\Milestone1\\Milestone1\\Milestone1\\Movies.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jose.hc\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.8\\microsoft.aspnet.webapi.client.5.2.8.nupkg.sha512",
     "C:\\Users\\jose.hc\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.8\\microsoft.aspnet.webapi.core.5.2.8.nupkg.sha512",
@@ -15,6 +15,7 @@
     "C:\\Users\\jose.hc\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
     "C:\\Users\\jose.hc\\.nuget\\packages\\newtonsoft.json\\10.0.1\\newtonsoft.json.10.0.1.nupkg.sha512",
     "C:\\Users\\jose.hc\\.nuget\\packages\\newtonsoft.json.bson\\1.0.1\\newtonsoft.json.bson.1.0.1.nupkg.sha512",
+    "C:\\Users\\jose.hc\\.nuget\\packages\\nlog\\5.0.0-rc2\\nlog.5.0.0-rc2.nupkg.sha512",
     "C:\\Users\\jose.hc\\.nuget\\packages\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\jose.hc\\.nuget\\packages\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\jose.hc\\.nuget\\packages\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",

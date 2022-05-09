@@ -11,7 +11,6 @@ C:\Users\jose.hc\source\repos\Milestone1\Milestone1\Milestone1\bin\Debug\net5.0\
 C:\Users\jose.hc\source\repos\Milestone1\Milestone1\Milestone1\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\jose.hc\source\repos\Milestone1\Milestone1\Milestone1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\jose.hc\source\repos\Milestone1\Milestone1\Milestone1\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\jose.hc\source\repos\Milestone1\Milestone1\Milestone1\obj\Debug\net5.0\Milestone1.csproj.AssemblyReference.cache
 C:\Users\jose.hc\source\repos\Milestone1\Milestone1\Milestone1\obj\Debug\net5.0\Milestone1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\jose.hc\source\repos\Milestone1\Milestone1\Milestone1\obj\Debug\net5.0\Milestone1.AssemblyInfoInputs.cache
 C:\Users\jose.hc\source\repos\Milestone1\Milestone1\Milestone1\obj\Debug\net5.0\Milestone1.AssemblyInfo.cs
@@ -26,3 +25,8 @@ C:\Users\jose.hc\source\repos\Milestone1\Milestone1\Milestone1\obj\Debug\net5.0\
 C:\Users\jose.hc\source\repos\Milestone1\Milestone1\Milestone1\obj\Debug\net5.0\ref\Milestone1.dll
 C:\Users\jose.hc\source\repos\Milestone1\Milestone1\Milestone1\obj\Debug\net5.0\Milestone1.pdb
 C:\Users\jose.hc\source\repos\Milestone1\Milestone1\Milestone1\obj\Debug\net5.0\Milestone1.genruntimeconfig.cache
+C:\Users\jose.hc\source\repos\Milestone1\Milestone1\Milestone1\bin\Debug\net5.0\System.Net.Http.Formatting.dll
+C:\Users\jose.hc\source\repos\Milestone1\Milestone1\Milestone1\bin\Debug\net5.0\System.Web.Http.dll
+C:\Users\jose.hc\source\repos\Milestone1\Milestone1\Milestone1\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jose.hc\source\repos\Milestone1\Milestone1\Milestone1\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\jose.hc\source\repos\Milestone1\Milestone1\Milestone1\obj\Debug\net5.0\Milestone1.csproj.AssemblyReference.cache
